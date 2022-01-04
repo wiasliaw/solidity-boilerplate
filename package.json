@@ -9,7 +9,6 @@
     "coverage": "hardhat coverage",
     "lint:sol": "solhint 'contracts/**/*.sol'",
     "lint:ts": "eslint . --ext .js,.ts",
-    "prettier": "prettier 'contracts/**/*.sol'",
     "deploy:hardhat": "hardhat deploy"
   },
   "devDependencies": {
